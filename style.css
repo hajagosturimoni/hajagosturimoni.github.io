@@ -50,3 +50,14 @@ div{
 #emailInputMezo {
   background: lightblue;
 }
+#emailKuldes{
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  text-align: center;
+  padding-top: 10px;
+  border: 1px solid red;
+  border-radius: 5px;
+  height: 30px;
+  background-color: deeppink;
+}
